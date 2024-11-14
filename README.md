@@ -8,6 +8,19 @@
 
 Fast C++ logging library
 
+## 参考链接
+
+> [聆湖听风](https://www.zhihu.com/people/listenwind666)
+
+[分析 C++ Spdlog 日志库](https://www.zhihu.com/column/c_1622996866337132544)
+
+> [竹山一叶](https://zsyyblog.com/)
+
+[C++ 日志库 spdlog](https://zsyyblog.com/2772901e.html)
+
+[spdlog 基本结构分析](https://zsyyblog.com/60ae3ed4.html)
+
+
 
 ## Install
 #### Header-only version
