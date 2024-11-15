@@ -10,7 +10,9 @@ Fast C++ logging library
 
 ## 参考链接
 
-> [聆湖听风](https://www.zhihu.com/people/listenwind666)
+基于[Version 1.15.0](https://github.com/gabime/spdlog/releases/tag/v1.15.0)
+
+[聆湖听风](https://www.zhihu.com/people/listenwind666)
 
 [分析 C++ Spdlog 日志库](https://www.zhihu.com/column/c_1622996866337132544)
 
